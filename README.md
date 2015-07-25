@@ -1,2 +1,2 @@
 # breeze
-A project for wechat public account
+A project for wechat public account, for web development.
